@@ -9,7 +9,9 @@
 * Инструменты: DevTools, Jira, Postman
 * Git и GitHub
 
-![Мое фото](images/my-photo.png)
+<img src="images/my-photo.png" width="250" alt="Мое фото">
+
+
 
 ## Мои контакты
 Вы можете связаться со мной в [Telegram](https://t.me/ekaterinaozl).
